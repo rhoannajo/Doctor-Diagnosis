@@ -1,0 +1,4 @@
+acid reflux: chest pain, burping
+flu: runny nose, fever
+cold: runny nose, cough, sore throat
+whooping cough: cough 

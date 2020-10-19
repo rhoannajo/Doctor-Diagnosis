@@ -1,0 +1,9 @@
+mumps: high fever, rash, swelling
+whooping cough: cough, rash, high fever
+acid reflux: chest pain, burping
+measles : runny nose, cough, fever, rash
+ague: sweatiness, achy, high fever
+flu: runny nose, cough, sore throat, muscle aches, fever
+chickenpox: fever, blister
+cold: runny nose, cough, sore throat
+norovirus : nausea, diarrhoea, vomiting
